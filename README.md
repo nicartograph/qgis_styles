@@ -1,3 +1,3 @@
 # QGIS styles
 
-Natural reserve basemap style
+Natural reserve basemap styles
